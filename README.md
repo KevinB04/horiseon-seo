@@ -1,4 +1,4 @@
 # horiseon-seo
 refactoring assignment
 
-![horiseon-seo](./assets/screenshots/Horiseon1)
+![horiseon-seo](/assets/screenshots/Horiseon1.jpeg)
