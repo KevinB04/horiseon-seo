@@ -1,6 +1,6 @@
 
 ## Installation
-All clients are welcome to access this site through https://github.com/KevinB04/Horiseon.
+All clients are welcome to access this site through https://github.com/KevinB04/Horiseon. 
 
 ## Usage
 ![horiseon-seo](/assets/screenshots/Horiseon1.jpg)
