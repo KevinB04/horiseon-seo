@@ -1,11 +1,12 @@
 
 ## Installation
+All clients are welcome to access this site through https://github.com/KevinB04/Horiseon.
 
 ## Usage
 ![horiseon-seo](/assets/screenshots/Horiseon1.jpg)
 
 ## Credits
-Kevin Buttimer is the creator of the application. You can find me at https://github.com/KevinB04/Horiseon. Further, http://www.makeareadme.com  is responsible for helping me create this README through their direct template.
+Make a README is responsible for helping me create this README through their direct template. They can be accessed at http://www.makeareadme.com.
 
 ## Contributing
 Got some good ideas for this site? I would love your feedback. Lets discuss all the ideas and issues that you have so we can create an incredible site!
