@@ -3,7 +3,7 @@
 ##Installation
 
 ## Credits
-Kevin Buttimer is the creator of the application. You can find me at https://github.com/KevinB04/Horiseon. http://www.makeareadme.com  is responsible for helping me create this README through their direct template.
+Kevin Buttimer is the creator of the application. You can find me at https://github.com/KevinB04/Horiseon. Further, http://www.makeareadme.com  is responsible for helping me create this README through their direct template.
 
 ## Usage
 ![horiseon-seo](/assets/screenshots/Horiseon1.jpg)
