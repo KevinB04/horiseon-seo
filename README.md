@@ -4,6 +4,7 @@ All clients are welcome to access this site through https://github.com/KevinB04/
 
 ## Usage
 Here is an example of what you will find:
+
 ![horiseon-seo](/assets/screenshots/Horiseon1.jpg)
 
 ## Credits
