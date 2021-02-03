@@ -1,6 +1,6 @@
 # horiseon-seo
 
-#on# Table of Contents
+## Table of Contents
    - [Installation](#installation)
    - [Usage](#usage)
    - [Credits](#credits)
